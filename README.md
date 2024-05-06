@@ -1,6 +1,6 @@
 # Virtual Doctor– Conversations
 
-### [Project Description](doc/project4_desc.md)
+### Project Description
 
 + Projec title: Comparing Machine Learning Fairness Algorithms
 + Team members
