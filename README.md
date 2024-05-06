@@ -9,7 +9,7 @@
 
 + Project summary:
 + Example:
-+ PPT:
++ PPT: https://docs.google.com/presentation/d/1BdKhgO89_cjfFRD0iPgPIdvMS3TGQ29WpVZmPpK-DcA/edit?usp=sharing
 
 
  This folder is orgarnized as follows.
