@@ -2,7 +2,7 @@
 
 ### Project Description
 
-+ Projec title: Virtual Doctor-Conversations
++ Projec title: Virtual Doctor - Conversations
 + Team members
 	+ Wenhe Chen
 	+ Yawen Zhou
