@@ -16,7 +16,7 @@
  This folder is orgarnized as follows.
 
 ```
-Virtual Doctor – Conversations/
+Virtual Doctor–Conversations/
 ├── lib/
 ├── data/
 ├── doc/
