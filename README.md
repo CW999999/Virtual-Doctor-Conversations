@@ -1,8 +1,8 @@
-# Virtual Doctor– Conversations
+# Virtual Doctor–Conversations
 
 ### Project Description
 
-+ Projec title: Comparing Machine Learning Fairness Algorithms
++ Projec title: Virtual Doctor-Conversations
 + Team members
 	+ Wenhe Chen
 	+ Yawen Zhou
