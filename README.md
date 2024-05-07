@@ -7,7 +7,7 @@
 	+ Wenhe Chen
 	+ Yawen Zhou
 
-+ Project summary
++ Project Summary:
   + Objective: The main issues addressed by the project are the inefficiencies and high costs associated with traditional medical consultations. Patients often have to wait a long time for a doctor's appointment, which can delay diagnosis and treatment. In addition, the financial burden of medical consultations can be significant. Through the introduction of a remote chat doctor system, this project aims to improve access to medical services, reduce waiting times, and reduce costs, thereby reducing pressure on the traditional medical system. This issue is critical because it directly impacts patient care and health outcomes. Faster and more cost-effective access to diagnosis and treatment can significantly improve patient satisfaction and health management. Furthermore, the current global trend is towards digital health solutions, which makes the project highly relevant and timely.
   + Solution: The solution involves a complex data analysis and symptom diagnosis system built using Python. The main components of the system include:
     + Data preprocessing and feature extraction: Generate features from symptom data using 'TF-IDf Vectorizer' and 'SentenceTransformer'.
