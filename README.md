@@ -32,7 +32,7 @@
   <img src="https://github.com/CW999999/Virtual-Doctor-Conversations/blob/main/figs/Similarity%20Scores%20of%20Similar%20Symptoms%20and%20Diseases.png" width="400" height="320">
 </div>
 
-+ How to use: Run the 'python app.py' on the terminal and then open this link http://127.0.0.1:5000 in the local browser.
++ How to use: Download the static file and the app.py. Then run the 'python app.py' on the terminal and then open this link http://127.0.0.1:5000 in the local browser.
 + PPT: https://docs.google.com/presentation/d/1BdKhgO89_cjfFRD0iPgPIdvMS3TGQ29WpVZmPpK-DcA/edit?usp=sharing
 
 
